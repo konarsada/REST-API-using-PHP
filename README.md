@@ -1,7 +1,9 @@
 # PHP REST API
 
-> This is a simple PHP REST API from scratch with no framework.
-> CRUD operations
+<ul>
+  <li>This is a simple PHP REST API from scratch with no framework.</li>
+  <li>CRUD operations</li>
+</ul>
 
 ## Quick Start
 
